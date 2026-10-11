@@ -1,0 +1,6 @@
+{
+  "name": "Net Saving App",
+  "description": "Save unused mobile internet data for future use. Created by Hasin Mahtab Hossain with smart rollover, usage tracking, and sponsored data rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
